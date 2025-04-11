@@ -1,0 +1,29 @@
+name: Generate Owned Tonies JSON
+
+on:
+  schedule:
+    - cron: '0 0,12 * * *'
+  workflow_dispatch:
+
+jobs:
+  generate-json:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: pip install requests thefuzz
+
+      - name: Clone NFC Repo
+        run: |
+          git clone https://github.com/nortakales/flipper-zero-tonies.git nfc_repo
+
+      - name: Generate New JSON with "owned" Property
+        run: python generate_owned_json.py
