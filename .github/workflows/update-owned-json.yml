@@ -1,4 +1,4 @@
-name: Generate Owned Tonies JSON
+name: Generate owned Tonies JSON
 
 on:
   schedule:
@@ -9,9 +9,20 @@ jobs:
   generate-json:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+      actions: read
+      pull-requests: write
+
     steps:
-      - name: Checkout Code
+      - name: Checkout Your Repo
         uses: actions/checkout@v3
+        with:
+          persist-credentials: false
+          submodules: false
+
+      - name: Clone Origin Repository
+        run: git clone --depth=1 ${{ secrets.ORIGIN_REPO_URL }} origin_repo
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -21,9 +32,25 @@ jobs:
       - name: Install Dependencies
         run: pip install requests thefuzz
 
-      - name: Clone NFC Repo
-        run: |
-          git clone https://github.com/nortakales/flipper-zero-tonies.git nfc_repo
-
       - name: Generate New JSON with "owned" Property
         run: python generate_owned_json.py
+
+      - name: Remove Origin Repo
+        run: rm -rf origin_repo
+
+      - name: Check for Changes
+        run: |
+          git add .
+          if git diff --staged --quiet; then
+            echo "No changes detected. Exiting."
+            echo "NO_CHANGES=true" >> $GITHUB_ENV
+          fi
+
+      - name: Commit and Push Changes
+        if: env.NO_CHANGES != 'true'
+        run: |
+          git config --global user.name "${{ secrets.GIT_USER_NAME }}"
+          git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
+          git remote set-url origin https://x-access-token:${{ secrets.PAT }}@github.com/${{ github.repository }}
+          git commit -m "Updated owned Tonies JSON"
+          git push

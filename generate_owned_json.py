@@ -7,7 +7,7 @@ from thefuzz import fuzz
 # URL of the original tonies JSON
 TONIES_URL = 'https://raw.githubusercontent.com/toniebox-reverse-engineering/tonies-json/release/tonies.json'
 # Path to your local NFC repo fork directory
-NFC_REPO_PATH = 'nfc_repo'
+NFC_REPO_PATH = 'origin_repo'
 # Fuzzy matching threshold; adjust as necessary
 FUZZY_THRESHOLD = 80
 
