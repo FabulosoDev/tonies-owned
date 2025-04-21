@@ -11830,8 +11830,8 @@
     "hash": [
       "9C46D7E4A45D3A19140CD0748A910A3FD1DBBB52"
     ],
-    "title": "Disney - Frozen 2",
-    "series": "Disney",
+    "title": "Frozen 2 - Frozen 2",
+    "series": "Frozen 2",
     "episodes": "Frozen 2",
     "tracks": [
       "Into the Unknown",
@@ -11845,7 +11845,7 @@
     "language": "en-gb",
     "category": "audio-play-songs",
     "pic": "https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000674-50002145-b-8FA4W3eY.png",
-    "owned": true
+    "owned": false
   },
   {
     "no": "0",
@@ -15720,12 +15720,10 @@
     "series": "Aladdin",
     "episodes": "Aladdin",
     "tracks": [
-      "Nuits d'Arabie",
-      "Je vole",
-      "Je suis ton meilleur ami",
-      "Prince Ali",
-      "Ce rêve bleu",
-      "L'Histoire : Aladdin (env. 47 min)"
+      "Partie 1 (inclus les chansons \"Nuits d'Arabie\" et \"Je vole\")",
+      "Partie 2 (inclus la chanson \"Je suis ton meilleur ami\")",
+      "Partie 3 (inclus les chansons \"Prince Ali\" et \"Ce rêve bleu\")",
+      "Partie 4"
     ],
     "release": "0",
     "language": "fr-fr",
@@ -25041,28 +25039,12 @@
     "series": "Pippi Langstrumpf",
     "episodes": "Pippi Langstrumpf - Das Hörspiel (Neuauflage 2025)",
     "tracks": [
-      "01 Pippi Langstrumpf Das Hoerspiel Relaunch",
-      "01 Hej Pippi Langstrumpf",
-      "02 Ach Tommy",
-      "03 Am Nächsten Morgen",
-      "04 Nebenan In Der Villa Kunterbunt",
-      "05 Ach Meine Lieben Wie Schade",
-      "06 In Der Kleinen Stadt",
-      "07 Tommy Und Annika Gingen Natürlich In Die Schule",
-      "08 Ja So War Das Mit Pippi Und Der Schule",
-      "09 Am Rand Der Kleinen Kleinen Stadt",
-      "10 Tommy Und Annika Liefen Nach Hause",
-      "11 In Die Kleine Stadt War Ein Zirkus Gekommen",
-      "12 Nach Pippis Auftritt Im Zirkus",
-      "13 Als Tommy Und Annika Am Nächsten Morgen",
-      "14 Es War An Einem Späten Sonntagnachmittag Im Herbst",
-      "15 Sieh Mal Tommy",
-      "16 Hej Pippi Langstrumpf"
+      "01 Hej Pippi Langstrumpf"
     ],
     "release": "1741737600",
     "language": "de-de",
     "category": "audio-play",
-    "pic": "https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11000185_1_a-IdhMejde.png",
+    "pic": "https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/11000185_Pippi-inkl--WQF-bCQ7.png",
     "owned": false
   },
   {
@@ -31405,6 +31387,7 @@
     "no": "0",
     "model": "11000782",
     "audio_id": [
+      "1745190303",
       "1745103901",
       "1745017502",
       "1744931101",
@@ -31876,6 +31859,7 @@
       "1703635535"
     ],
     "hash": [
+      "0B821FBCA5B207AD6CDE9295A59B9C7F9DDEC999",
       "EF9882762F81F362BAE9B26F3F5791D739B29FD8",
       "828B6845581907A0261DE53B6F2EDD4FCF890346",
       "1DFB13F0439E8A5B447547B7F7DCC4F4C76F4459",
@@ -34173,6 +34157,7 @@
     "no": "0",
     "model": "11001109",
     "audio_id": [
+      "1745193901",
       "1745107501",
       "1745021101",
       "1744934701",
@@ -34398,6 +34383,7 @@
       "1725491110"
     ],
     "hash": [
+      "17AB38C91E792A13A1A4EB32C07AC6611B271DE4",
       "2C299BD28D10449FD51DD04136609294EBA313AA",
       "93DFE443CBD54AAAAC4140B3FF240F152D394BCA",
       "5EE868524A24D435717BE2E7E87878821787B11A",
