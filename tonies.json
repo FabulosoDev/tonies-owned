@@ -25447,7 +25447,7 @@
     "release": "1743429443",
     "language": "en-us",
     "category": "Tonie",
-    "pic": "https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Tonies-PDP-Assets-AnimalAdventures-BarryBuddySwanseaJack-Single.jpg?v=1744662275",
+    "pic": "https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Tonies-PDP-Assets-AnimalAdventures-BarryBuddySwanseaJack-Single.jpg?v=1745440098",
     "owned": false
   },
   {
@@ -25487,7 +25487,7 @@
     "release": "1743429437",
     "language": "en-us",
     "category": "Tonie",
-    "pic": "https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Tonies-PDP-Assets-AnimalAdventures-BaltoTogo-Single.jpg?v=1744662270",
+    "pic": "https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Tonies-PDP-Assets-AnimalAdventures-BaltoTogo-Single.jpg?v=1745440098",
     "owned": false
   },
   {
@@ -31402,6 +31402,7 @@
     "no": "0",
     "model": "11000782",
     "audio_id": [
+      "1745449501",
       "1745363101",
       "1745276701",
       "1745190303",
@@ -31876,6 +31877,7 @@
       "1703635535"
     ],
     "hash": [
+      "CDF1B08611C13522DA22E2B5AB8028C42A9CC6DE",
       "1E7D8ED2BA12B188447DD7BC3082D444F1836B11",
       "70E097C27118A1443ACE0642D149EA4D543F6830",
       "0B821FBCA5B207AD6CDE9295A59B9C7F9DDEC999",
@@ -34176,6 +34178,7 @@
     "no": "0",
     "model": "11001109",
     "audio_id": [
+      "1745453101",
       "1745366701",
       "1745280302",
       "1745193901",
@@ -34404,6 +34407,7 @@
       "1725491110"
     ],
     "hash": [
+      "52A6BA50C1B91458FBE064BF69F810DF7A0DC60D",
       "74DF4D7CD8C13CC100DC5FE823FA5F9DDF3BD04B",
       "12223B5290A434EDF9DD3CC97FF3560B938B7D11",
       "17AB38C91E792A13A1A4EB32C07AC6611B271DE4",
