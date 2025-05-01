@@ -30215,6 +30215,21 @@
   },
   {
     "no": "0",
+    "model": "11000651",
+    "audio_id": [],
+    "hash": [],
+    "title": "Story Pirates - None",
+    "series": "Story Pirates",
+    "episodes": null,
+    "tracks": [],
+    "release": "1746026268",
+    "language": "en-us",
+    "category": "Tonie",
+    "pic": "https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Tonies-PDP-Assets-StoryPirates-Single.jpg?v=1745346580",
+    "owned": false
+  },
+  {
+    "no": "0",
     "model": "11000677",
     "audio_id": [
       "1722605607"
@@ -35206,6 +35221,21 @@
   },
   {
     "no": "0",
+    "model": "11001276",
+    "audio_id": [],
+    "hash": [],
+    "title": "Qai Qai - Invisible Universe",
+    "series": "Qai Qai",
+    "episodes": "Invisible Universe",
+    "tracks": [],
+    "release": "1746026269",
+    "language": "en-us",
+    "category": "Tonie",
+    "pic": "https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Tonies-PDP-Assets-QaiQai-Single.jpg?v=1745353787",
+    "owned": false
+  },
+  {
+    "no": "0",
     "model": "11001281",
     "audio_id": [
       "1738750828"
@@ -36113,6 +36143,21 @@
   },
   {
     "no": "0",
+    "model": "11001781",
+    "audio_id": [],
+    "hash": [],
+    "title": "CoComelon Cody - None",
+    "series": "CoComelon Cody",
+    "episodes": null,
+    "tracks": [],
+    "release": "1746026232",
+    "language": "en-us",
+    "category": "Tonie",
+    "pic": "https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Tonies-PDP-Assets-CoComelonCody-Single.jpg?v=1745353781",
+    "owned": false
+  },
+  {
+    "no": "0",
     "model": "11001807",
     "audio_id": [],
     "hash": [],
@@ -36531,6 +36576,80 @@
     "language": null,
     "category": null,
     "pic": null,
+    "owned": false
+  },
+  {
+    "no": "0",
+    "model": "11001980",
+    "audio_id": [],
+    "hash": [],
+    "title": "La Pat' Patrouille - Chase - Jungle Pups",
+    "series": "La Pat' Patrouille",
+    "episodes": "Chase - Jungle Pups",
+    "tracks": [
+      "Introduction",
+      "Générique de la Pat' Patrouille",
+      "Mission jungle : Les Suricates pirates",
+      "Interlude",
+      "Le mystère des tableaux disparus",
+      "Interlude",
+      "Galinetta pilote un avion",
+      "Interlude",
+      "Le petit paresseux",
+      "Conclusion"
+    ],
+    "release": "1746057600",
+    "language": "fr-fr",
+    "category": "audio-play",
+    "pic": "https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51003852-Tonie_Shado-ssGMrQ04.png",
+    "owned": false
+  },
+  {
+    "no": "0",
+    "model": "11001981",
+    "audio_id": [],
+    "hash": [],
+    "title": "La Pat' Patrouille - Marcus - Jungle Pups",
+    "series": "La Pat' Patrouille",
+    "episodes": "Marcus - Jungle Pups",
+    "tracks": [
+      "Introduction",
+      "Générique de la Pat' Patrouille",
+      "Mission jungle : Le tigre à dents de sabre",
+      "Interlude",
+      "Alex et les autruches",
+      "Interlude",
+      "Le trophée de Monsieur Hellinger",
+      "Conclusion"
+    ],
+    "release": "1746057600",
+    "language": "fr-fr",
+    "category": "audio-play",
+    "pic": "https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51003855-Tonie_Shado-9gKBJOXD.png",
+    "owned": false
+  },
+  {
+    "no": "0",
+    "model": "11001982",
+    "audio_id": [],
+    "hash": [],
+    "title": "La Pat' Patrouille - Stella - Jungle Pups",
+    "series": "La Pat' Patrouille",
+    "episodes": "Stella - Jungle Pups",
+    "tracks": [
+      "Introduction",
+      "Générique de la Pat' Patrouille",
+      "Mission jungle : Une grande découverte",
+      "Interlude",
+      "Mission jungle : Les fourmis géantes",
+      "Interlude",
+      "Mission jungle : L'hippopotame de Monsieur Hellinger",
+      "11001982 8 Stellajunglepups Conclusion"
+    ],
+    "release": "1746057600",
+    "language": "fr-fr",
+    "category": "audio-play",
+    "pic": "https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51003858-Tonie_Shado-fwcITgWL.png",
     "owned": false
   },
   {
