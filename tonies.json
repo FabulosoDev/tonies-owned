@@ -25447,7 +25447,7 @@
     "release": "1743429443",
     "language": "en-us",
     "category": "Tonie",
-    "pic": "https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Tonies-PDP-Assets-AnimalAdventures-BarryBuddySwanseaJack-Single.jpg?v=1745440098",
+    "pic": "https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Tonies-PDP-Assets-AnimalAdventures-BarryBuddySwanseaJack-Transparent.png?v=1744662271",
     "owned": false
   },
   {
@@ -25487,7 +25487,7 @@
     "release": "1743429437",
     "language": "en-us",
     "category": "Tonie",
-    "pic": "https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Tonies-PDP-Assets-AnimalAdventures-BaltoTogo-Single.jpg?v=1745440098",
+    "pic": "https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Tonies-PDP-Assets-AnimalAdventures-BaltoTogo-Transparent.png?v=1744662266",
     "owned": false
   },
   {
@@ -26233,7 +26233,7 @@
     "release": "1743429450",
     "language": "en-us",
     "category": "Tonie",
-    "pic": "https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Tonies-PDP-Assets-NatGeoKids-Elephants-Single.jpg?v=1744662278",
+    "pic": "https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Tonies-PDP-Assets-NatGeoKids-Elephants-Transparent.png?v=1744662274",
     "owned": true
   },
   {
@@ -30278,7 +30278,7 @@
     "release": "1746467681",
     "language": "en-us",
     "category": "Tonie",
-    "pic": "https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Tonies-PDP-Assets-StoryPirates-Single.jpg?v=1745346580",
+    "pic": "https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Tonies-PDP-Assets-StoryPirates-Transparent.png?v=1745346576",
     "owned": false
   },
   {
@@ -34149,7 +34149,7 @@
     "release": "1743429463",
     "language": "en-us",
     "category": "Tonie",
-    "pic": "https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Tonies-PDP-Assets-EncantosCanticos-Single.jpg?v=1744662372",
+    "pic": "https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Tonies-PDP-Assets-EncantosCanticos-Transparent.png?v=1744662371",
     "owned": false
   },
   {
@@ -35199,7 +35199,7 @@
     "release": "1743429455",
     "language": "en-us",
     "category": "Tonie",
-    "pic": "https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Tonies-PDP-Assets-ElephantPiggie-Single.jpg?v=1744662346",
+    "pic": "https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Tonies-PDP-Assets-ElephantPiggie-Transparent.png?v=1744662347",
     "owned": false
   },
   {
@@ -35341,7 +35341,7 @@
     "release": "1746467684",
     "language": "en-us",
     "category": "Tonie",
-    "pic": "https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Tonies-PDP-Assets-QaiQai-Single.jpg?v=1745353787",
+    "pic": "https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Tonies-PDP-Assets-QaiQai-Transparent.png?v=1745353783",
     "owned": false
   },
   {
@@ -36277,14 +36277,14 @@
     "model": "11001781",
     "audio_id": [],
     "hash": [],
-    "title": "CoComelon Cody - None",
-    "series": "CoComelon Cody",
-    "episodes": null,
+    "title": "Cocomelon - Cody",
+    "series": "Cocomelon",
+    "episodes": "Cody",
     "tracks": [],
     "release": "1746467686",
     "language": "en-us",
     "category": "Tonie",
-    "pic": "https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Tonies-PDP-Assets-CoComelonCody-Single.jpg?v=1745353781",
+    "pic": "https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Tonies-PDP-Assets-CoComelonCody-Transparent.png?v=1745353778",
     "owned": false
   },
   {
@@ -36775,7 +36775,7 @@
       "Mission jungle : Les fourmis géantes",
       "Interlude",
       "Mission jungle : L'hippopotame de Monsieur Hellinger",
-      "11001982 8 Stellajunglepups Conclusion"
+      "Conclusion"
     ],
     "release": "1746057600",
     "language": "fr-fr",
