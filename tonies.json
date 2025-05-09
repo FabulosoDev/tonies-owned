@@ -10164,9 +10164,9 @@
       "7F05099D3A8EE4C0C2BADB8E53DC42B5D6CD5B2B",
       "89FE66253BFE64D1D1DF63AB6F9D49C23E90D863"
     ],
-    "title": "Peppa Pig - None",
+    "title": "Peppa Pig - On the Road with Peppa",
     "series": "Peppa Pig",
-    "episodes": null,
+    "episodes": "On the Road with Peppa",
     "tracks": [],
     "release": "1621346809",
     "language": "en-us",
@@ -17180,9 +17180,9 @@
       "EA8DA8F2243BCAEC995AEC359BC1859A74289045",
       "41DF9BD3443FEBA9872596BC289D8C4C443F08F7"
     ],
-    "title": "CoComelon - None",
+    "title": "CoComelon - Sing-Along Favorites",
     "series": "CoComelon",
-    "episodes": null,
+    "episodes": "Sing-Along Favorites",
     "tracks": [],
     "release": "1662562750",
     "language": "en-us",
@@ -24434,8 +24434,8 @@
       "02FEBADCFCF7EC3774C3055B1F72683E6781598B",
       "B3A7436D18E496A5A9E455E4984215F56242477D"
     ],
-    "title": "Leo's Day - Routines",
-    "series": "Leo's Day",
+    "title": "Leo's Day Routines - Routines",
+    "series": "Leo's Day Routines",
     "episodes": "Routines",
     "tracks": [],
     "release": "1687362085",
@@ -28411,9 +28411,9 @@
     "hash": [
       "602211A15846491C1E7AD759EB86C2E7C2D0D6A7"
     ],
-    "title": "Calm x tonies® - None",
+    "title": "Calm x tonies® - Calm",
     "series": "Calm x tonies®",
-    "episodes": null,
+    "episodes": "Calm",
     "tracks": [],
     "release": "1668452219",
     "language": "en-us",
@@ -28809,9 +28809,9 @@
     "hash": [
       "5B3DECA22B14BE96D2BA554A1BF7DBFDAFEA5E6A"
     ],
-    "title": "Disney - & Pixar: Inside Out",
-    "series": "Disney",
-    "episodes": "& Pixar: Inside Out",
+    "title": "Disney & Pixar - Inside Out",
+    "series": "Disney & Pixar",
+    "episodes": "Inside Out",
     "tracks": [],
     "release": "1722433693",
     "language": "en-us",
@@ -30008,9 +30008,9 @@
       "C9C77A64A94867418311228FEFD8F141B54367BA",
       "6F15F2853D952027DC373D6E3BDF7C85AF79D120"
     ],
-    "title": "Lalalinos - Scout Tonie - Move and Groove in Bumbaloo",
+    "title": "Lalalinos - Scout - Move and Groove in Bumbaloo",
     "series": "Lalalinos",
-    "episodes": "Scout Tonie - Move and Groove in Bumbaloo",
+    "episodes": "Scout - Move and Groove in Bumbaloo",
     "tracks": [],
     "release": "1735588416",
     "language": "en-us",
@@ -31470,6 +31470,7 @@
     "no": "0",
     "model": "11000782",
     "audio_id": [
+      "1746745509",
       "1746659101",
       "1746572721",
       "1746486320",
@@ -31959,6 +31960,7 @@
       "1703635535"
     ],
     "hash": [
+      "C1D9C45F54EB43EC2031A26ABC7ABA4AC7B86391",
       "C8828B1FFDA955C14A71DD103327E5F130A8C6BD",
       "A5CCFA718FCD63F6F0F97D591F941A0A3E65603D",
       "9F7AF3263C9DBD941180DDBE0DB9BB7C3D1331F5",
@@ -34303,6 +34305,7 @@
     "no": "0",
     "model": "11001109",
     "audio_id": [
+      "1746749109",
       "1746662701",
       "1746576321",
       "1746489921",
@@ -34546,6 +34549,7 @@
       "1725491110"
     ],
     "hash": [
+      "867883E939F9925447002463C2F266EEBE15A7CB",
       "94BF0D7E7644F9EC3B34DF0C523E6034162F8431",
       "AA78B6487439F78D4B2BDF86E68506230F4AE28A",
       "23ED80C39E1A9A9280BD72FA1F98508C759F6055",
@@ -35283,9 +35287,9 @@
     "model": "11001242",
     "audio_id": [],
     "hash": [],
-    "title": "Disney - Moana 2 - Simea",
+    "title": "Disney - Moana 2: Simea",
     "series": "Disney",
-    "episodes": "Moana 2 - Simea",
+    "episodes": "Moana 2: Simea",
     "tracks": [],
     "release": "1741193267",
     "language": "en-us",
@@ -35634,15 +35638,15 @@
     "hash": [
       "4053037EC0CBC796CA4E8989ECA08A70B534A4B1"
     ],
-    "title": "Disney - & Pixar: Finding Dory",
-    "series": "Disney",
-    "episodes": "& Pixar: Finding Dory",
+    "title": "Disney & Pixar - Finding Dory",
+    "series": "Disney & Pixar",
+    "episodes": "Finding Dory",
     "tracks": [],
     "release": "1727438982",
     "language": "en-us",
     "category": "Tonie",
     "pic": "https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Tonies-PDP-Assets-dory-transparent_1_5c3280e6-1a18-4bce-93bb-9af03f4876c6.png?v=1734730745",
-    "owned": false
+    "owned": true
   },
   {
     "no": "0",
