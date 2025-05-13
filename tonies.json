@@ -8611,8 +8611,8 @@
     "hash": [
       "ABAD0D0611016533A0B480D00A81E3D637755ABD"
     ],
-    "title": "Disney - Merida - Legende der Highlands",
-    "series": "Disney",
+    "title": "Merida – Legende der Highlands - Merida - Legende der Highlands",
+    "series": "Merida – Legende der Highlands",
     "episodes": "Merida - Legende der Highlands",
     "tracks": [
       "Kapitel 01: Merida - Legende der Highlands",
@@ -8626,7 +8626,7 @@
     "language": "de-de",
     "category": "audio-play-songs",
     "pic": "https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/BOX10000374_1_a-AD_RKQDt.png",
-    "owned": true
+    "owned": false
   },
   {
     "no": "0",
@@ -25997,8 +25997,8 @@
       "E843145798860A8B88C13D89C6F62F70A3A02FDA",
       "A43483012426B448AB6DC45654AE07CFA43F9E0C"
     ],
-    "title": "Disney - Tiggers großes Abenteuer",
-    "series": "Disney",
+    "title": "Winnie Puuh - Tiggers großes Abenteuer",
+    "series": "Winnie Puuh",
     "episodes": "Tiggers großes Abenteuer",
     "tracks": [
       "Kapitel 01: Tiggers Großes Abenteuer",
@@ -37079,8 +37079,12 @@
   {
     "no": "0",
     "model": "11002458",
-    "audio_id": [],
-    "hash": [],
+    "audio_id": [
+      "1737561276"
+    ],
+    "hash": [
+      "BFCB2305323B58D856E33FCB4DDC70C1464F0182"
+    ],
     "title": "BiBiBiber hat da mal 'ne Frage - Sind Dinos wirklich alle tot?",
     "series": "BiBiBiber hat da mal 'ne Frage",
     "episodes": "Sind Dinos wirklich alle tot?",
