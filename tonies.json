@@ -25033,8 +25033,12 @@
   {
     "no": "0",
     "model": "11000185",
-    "audio_id": [],
-    "hash": [],
+    "audio_id": [
+      "1745477198"
+    ],
+    "hash": [
+      "9B52F095DB6FD293071D0A237BF0C858CA906C14"
+    ],
     "title": "Pippi Langstrumpf - Pippi Langstrumpf - Das Hörspiel (Neuauflage 2025)",
     "series": "Pippi Langstrumpf",
     "episodes": "Pippi Langstrumpf - Das Hörspiel (Neuauflage 2025)",
@@ -31470,6 +31474,7 @@
     "no": "0",
     "model": "11000782",
     "audio_id": [
+      "1747091109",
       "1747004705",
       "1746918305",
       "1746831905",
@@ -31963,6 +31968,7 @@
       "1703635535"
     ],
     "hash": [
+      "1EEBA11E3974C5136223FA78D11DA861677317B3",
       "3E01FBB4B3B1E1DFA4AD7F52E04C480660168721",
       "66A6B73048CC908F573641A45A763CCCB32334C5",
       "CC0D5131B33A48700BB4FD1D56166CC0947382F9",
@@ -33706,8 +33712,12 @@
   {
     "no": "0",
     "model": "11000950",
-    "audio_id": [],
-    "hash": [],
+    "audio_id": [
+      "1744039073"
+    ],
+    "hash": [
+      "BA2CC5EDFD5A49E07F9F571EB2281729E40AABC6"
+    ],
     "title": "Toto und der Mann im Mond - Toto und der Mann im Mond",
     "series": "Toto und der Mann im Mond",
     "episodes": "Toto und der Mann im Mond",
@@ -34311,6 +34321,7 @@
     "no": "0",
     "model": "11001109",
     "audio_id": [
+      "1747094709",
       "1747008305",
       "1746921905",
       "1746835505",
@@ -34558,6 +34569,7 @@
       "1725491110"
     ],
     "hash": [
+      "C10075D457F4C43516FC7F27525F15CA1DA5F378",
       "2472F993D57760BFEF1415BC1115FDD85788B4A6",
       "5F0BE8D15AA755034853D19C114D41986898777D",
       "C8214B0766939B80B2A5400166C6A18C68D50E55",
