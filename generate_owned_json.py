@@ -30,6 +30,21 @@ def get_nfc_file_paths(nfc_repo_path):
                 file_paths.append(rel_path)
     return file_paths
 
+def replace_umlauts(text):
+    """
+    Replace German umlauts in the given text with their ASCII equivalents.
+    """
+    umlaut_map = {
+        'ä': 'ae',
+        'ö': 'oe',
+        'ü': 'ue',
+        'ß': 'ss'
+    }
+    for umlaut, replacement in umlaut_map.items():
+        text = text.replace(umlaut, replacement)
+    return text
+
+
 def is_item_owned(series, episodes, language, nfc_paths, threshold=FUZZY_THRESHOLD):
     """
     Build a search string from series, episodes, and language then use fuzzy matching
@@ -55,7 +70,14 @@ def is_item_owned(series, episodes, language, nfc_paths, threshold=FUZZY_THRESHO
 
     search_term = f"{language_name}\\{series}\\{episodes}.nfc".lower().strip()
     for path in filter(lambda p: p.lower().startswith(f"{language_name}"), nfc_paths):
-        score = fuzz.ratio(search_term, path.lower())
+        path_parts = path.lower().split("\\")
+        if len(path_parts) < 3:
+            continue
+
+        path_language, path_series, path_episodes = path_parts[0], path_parts[1], path_parts[2]
+        path_term = f"{path_language}\\{path_series}\\{path_episodes}"
+
+        score = fuzz.ratio(search_term, path_term)
         if score >= threshold:
             return True
     return False
@@ -84,8 +106,8 @@ def main():
         if category == 'creative-tonie':
             continue
 
-        series = str(item.get('series', '')).strip()
-        episodes = str(item.get('episodes', '')).strip()
+        series = replace_umlauts(str(item.get('series', '')).strip())
+        episodes = replace_umlauts(str(item.get('episodes', '')).strip())
         language = str(item.get('language', '')).strip()
 
         # Add the "owned" flag based on fuzzy matching including language.
