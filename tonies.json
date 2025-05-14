@@ -5782,12 +5782,14 @@
     "no": "0",
     "model": "10000158",
     "audio_id": [
+      "1747128270",
       "1701244274",
       "1701182307",
       "1699259452",
       "1602579939"
     ],
     "hash": [
+      "AEE8AA43136A48C863C16116F3FA62C2F25DBC13",
       "C568616BB4F6645274489038818EEA414D7F74A2",
       "1C8E7A59075B3D2E7F277DD7B3DE821A906F644C",
       "944299CE18FEC5E0777BCF67971CAC49F269AF29",
@@ -30116,8 +30118,12 @@
   {
     "no": "0",
     "model": "11000618",
-    "audio_id": [],
-    "hash": [],
+    "audio_id": [
+      "1731581822"
+    ],
+    "hash": [
+      "9F7C375C00FEEB827FEE8F70F85E7AF2F520C77F"
+    ],
     "title": "Lalalinos - Die beste Band in Bumbaloo (Akio)",
     "series": "Lalalinos",
     "episodes": "Die beste Band in Bumbaloo (Akio)",
@@ -30334,9 +30340,11 @@
     "no": "0",
     "model": "11000704",
     "audio_id": [
+      "1747134979",
       "1733862721"
     ],
     "hash": [
+      "EC2A27CE505B8B7B2F39C471813FF5D990B54F1E",
       "09E9F3963DBFAEC0FB0FD046797185BDFD4D1A03"
     ],
     "title": "Disney & Pixar - Ratatouille",
@@ -30824,8 +30832,12 @@
   {
     "no": "0",
     "model": "11000737",
-    "audio_id": [],
-    "hash": [],
+    "audio_id": [
+      "1738783330"
+    ],
+    "hash": [
+      "971A5D2D0C25C3C64B0E7AF75A57DE0169F6FA12"
+    ],
     "title": "Jasmin - Jasmin",
     "series": "Jasmin",
     "episodes": "Jasmin",
@@ -35851,8 +35863,12 @@
   {
     "no": "0",
     "model": "11001542",
-    "audio_id": [],
-    "hash": [],
+    "audio_id": [
+      "1733831147"
+    ],
+    "hash": [
+      "D6E8F5C2A38E78B7D52C878F316FD1F7A6011B82"
+    ],
     "title": "Bibi & Tina - Die verlorene Freundschaft (Neuauflage 2025)",
     "series": "Bibi & Tina",
     "episodes": "Die verlorene Freundschaft (Neuauflage 2025)",
@@ -36407,8 +36423,12 @@
   {
     "no": "0",
     "model": "11001861",
-    "audio_id": [],
-    "hash": [],
+    "audio_id": [
+      "1739354599"
+    ],
+    "hash": [
+      "40699144BCA173E245FA766931AE35712AA385B1"
+    ],
     "title": "Der kleine Prinz - Der kleine Prinz (Neuauflage 2025)",
     "series": "Der kleine Prinz",
     "episodes": "Der kleine Prinz (Neuauflage 2025)",
