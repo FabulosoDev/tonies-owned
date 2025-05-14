@@ -74,7 +74,11 @@ def is_item_owned(series, episodes, language, nfc_paths, threshold=FUZZY_THRESHO
         if len(path_parts) < 3:
             continue
 
-        path_language, path_series, path_episodes = path_parts[0], path_parts[1], path_parts[2]
+        if len(path_parts) == 4:
+            path_language, path_series, path_episodes = path_parts[0], path_parts[2], path_parts[3]
+        else:
+            path_language, path_series, path_episodes = path_parts[0], path_parts[1], path_parts[2]
+
         path_term = f"{path_language}\\{path_series}\\{path_episodes}"
 
         score = fuzz.ratio(search_term, path_term)
